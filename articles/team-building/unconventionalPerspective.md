@@ -1,16 +1,16 @@
 ---
-title: "Unconventional Perspective: A Guide for Developing Team Trust"
+title: "Unconventional Perspective"
 category: "team-building"
 author: "Juan C. Saa"
 date: "2025-07-17"
 tags: ["team-building", "staff-development", "strategy"]
 premium: false
 reading_time: 5
-summary: "A blueprint for developing team trust and loyalty."
+summary: "Earn your team's trust and loyalty."
 featured_image: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop"
 ---
 
-## Unconventional perspective
+## A Guide for Developing Team Trust
 
 William Wallace, Winston Churchill, Gandhi, Jacinda Ardern, Malala Yousafzai. All of these leaders fit the description of unconventional thinkers, and here are 7 best practices of their unconventional way of earning trust, loyal following and effectiveness on accomplishing their goals.
 
