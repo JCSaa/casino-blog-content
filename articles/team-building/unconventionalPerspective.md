@@ -10,20 +10,34 @@ summary: "A blueprint for developing team trust and loyalty."
 featured_image: "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=800&h=400&fit=crop"
 ---
 
-# Unconventional perspective
+## Unconventional perspective
 
-William Wallace, Winston Churchill, Gandhi, Jacinda Ardern, Malala Yousafzai… All of these leaders fit the description of unconventional thinkers, and here are 7 best practices of their unconventional way of earning trust, loyal following and effectiveness on accomplishing their goals.
+William Wallace, Winston Churchill, Gandhi, Jacinda Ardern, Malala Yousafzai. All of these leaders fit the description of unconventional thinkers, and here are 7 best practices of their unconventional way of earning trust, loyal following and effectiveness on accomplishing their goals.
 
-**Take the blame** - If there is a blame to be had, take it on. If there is a credit to be given, give it away to others. It’s a rare behavior that truly creates trust and loyalty; Always protect your team and praise them when it comes to owning up to their accomplishments.
+### Take the blame!
 
-**Forget about conventional wisdom** - The more you say “it’s never been done before", the more excited your team gets about changing that fact. It’s hard to manage a team of rebels, but that’s exactly what’s needed to change the norm, to challenge the old, and invent the new.
+If there is a blame to be had, take it on. If there is a credit to be given, give it away to others. It's a rare behavior that truly creates trust and loyalty; Always protect your team and praise them when it comes to owning up to their accomplishments.
 
-**Mistakes do not equate to failures** - What really matters is the response to those mistakes. Mistakes teach, while the notion of “failure” erodes confidence. Trailblazing pioneers stumble while shaping new paths. And that’s okay.
+### Forget about conventional wisdom
 
-**Shut up** - The art of effective conversation lies in listening. Make it a point to not have your opinion heard right off the bat, sit back and listen. You will get amazing insights and inspire great ideas just by listening. It is hard to do, but tremendously rewarding.
+The more you say "It's never been done before", the more excited your team gets about changing that fact. It's hard to manage a team of rebels, but that's exactly what's needed to change the norm, to challenge the old, and invent the new.
 
-**Actively seek diversity** - We've all seen "leaders" surround themselves with armies of “yes” people, it's human nature to like those that look, speak, think or dress like us. Instead, seek diversity of opinions, ages, genders, perspectives, and experiences enriching the collective DNA of expertise. Remember, "If everyone is thinking the same, then most aren’t thinking at all".
+### Mistakes do not equate to failures
 
-**Encourage reverse mentorship** - Be sharp enough to realize that times change and that there are things younger professionals are just smarter about and posses critical knowledge for innovation.
+What really matters is the response to those mistakes. Mistakes teach, while the notion of "failure" erodes confidence. Trailblazing pioneers stumble while shaping new paths. And that's okay.
 
-**Disappear, disconnect and reflect** - Change the routine, learn something outside your professional interest. Create white space in which reflection thrives. Know your limits, and those of your team, know when their energy levels need recharging.
+### Shut up!
+
+The art of effective conversation lies in listening. Make it a point to not have your opinion heard right off the bat, sit back and listen. You will get amazing insights and inspire great ideas just by listening. It is hard to do, but tremendously rewarding.
+
+### Actively seek diversity
+
+We've all seen leaders surround themselves with armies of "Yes" people, it's human nature to like those that look, speak, think or dress like us. Instead, seek diversity of opinions, ages, genders, perspectives, and experiences enriching the collective DNA of expertise. Remember, "If everyone is thinking the same, then most aren't thinking at all".
+
+### Encourage reverse mentorship
+
+Be sharp enough to realize that times change and that there are things younger professionals are just smarter about and posses critical knowledge for innovation.
+
+### Disappear, disconnect and reflect
+
+Change the routine, learn something outside your professional interest. Create white space in which reflection thrives. Know your limits, and those of your team, know when their energy levels need recharging.
